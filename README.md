@@ -195,7 +195,8 @@ In VirtualBox, click Start to boot up your Kali Linux virtual machine
 Step 11: Begin Kali Linux Installation
 
 1.The VM will now boot from the ISO. You’ll see a boot menu.  Select Graphical Install and press Enter.
-<img width="1786" height="942" alt="image" src="https://github.com/user-attachments/assets/10dedab2-3c10-4e65-a206-5ed0b70e7a62" />
+<img width="1852" height="996" alt="image" src="https://github.com/user-attachments/assets/1f5aab17-8da1-4ec3-a524-4edfacbd5203" />
+
 
 
 
@@ -256,16 +257,26 @@ Step 19: Login to Kali Linux
 
 ## PROGRAM
 
-<img width="521" height="330" alt="Screenshot 2025-09-01 111130" src="https://github.com/user-attachments/assets/bb0d77fb-b9d7-4e15-8e9d-38cd50301639" />
-<img width="786" height="382" alt="Screenshot 2025-09-01 111233" src="https://github.com/user-attachments/assets/8a205c53-5dd8-4d51-a9a9-211cc91ae6a1" />
+<img width="291" height="207" alt="image" src="https://github.com/user-attachments/assets/27de39fe-5273-4eae-b0c6-150b3df757e1" />
+
+<br>
+
+<img width="352" height="142" alt="image" src="https://github.com/user-attachments/assets/a8536a59-6cfa-49c0-8761-f33ece101e03" />
 
 
-## Expected and terminal output:
-<img width="714" height="294" alt="Screenshot 2025-09-01 110215" src="https://github.com/user-attachments/assets/ff192786-bc64-4924-917f-f2e04261b243" />
-<img width="843" height="433" alt="Screenshot 2025-09-01 110030" src="https://github.com/user-attachments/assets/95f68cd4-4664-409b-aa69-9ab3aaca7e06" />
+
+
+
+## Expected and terminal output
+
+<img width="255" height="323" alt="image" src="https://github.com/user-attachments/assets/87aea81e-160d-4b83-8c84-4358627d1145" />
+<br>
+<img width="332" height="250" alt="image" src="https://github.com/user-attachments/assets/ae52456a-669a-4734-835c-b488bda44a97" />
+
 
 ## Linux Commands:
-<img width="1107" height="551" alt="Screenshot 2025-09-01 105952" src="https://github.com/user-attachments/assets/047ce7e9-45c0-49a6-9e62-aa52303dcd7f" />
+<img width="351" height="367" alt="image" src="https://github.com/user-attachments/assets/154985db-6b85-444d-bb24-92f176d5c1cc" />
+
 
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
